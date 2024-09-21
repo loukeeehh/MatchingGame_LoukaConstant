@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\louka\\OneDrive\\Documents\\Ann\u00E9e 2024-2025\\Informatique 6e\\UAA14 WPF\\MatchingGame_LoukaConstant\\MatchingGame_LoukaConstant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{332B67D9-5E62-40D0-844C-1139887794FA}|MatchingGame_LoukaConstant.csproj|c:\\users\\louka\\onedrive\\documents\\ann\u00E9e 2024-2025\\informatique 6e\\uaa14 wpf\\matchinggame_loukaconstant\\matchinggame_loukaconstant\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332B67D9-5E62-40D0-844C-1139887794FA}|MatchingGame_LoukaConstant.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332B67D9-5E62-40D0-844C-1139887794FA}|MatchingGame_LoukaConstant.csproj|c:\\users\\louka\\onedrive\\documents\\ann\u00E9e 2024-2025\\informatique 6e\\uaa14 wpf\\matchinggame_loukaconstant\\matchinggame_loukaconstant\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{332B67D9-5E62-40D0-844C-1139887794FA}|MatchingGame_LoukaConstant.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\louka\\OneDrive\\Documents\\Ann\u00E9e 2024-2025\\Informatique 6e\\UAA14 WPF\\MatchingGame_LoukaConstant\\MatchingGame_LoukaConstant\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\louka\\OneDrive\\Documents\\Ann\u00E9e 2024-2025\\Informatique 6e\\UAA14 WPF\\MatchingGame_LoukaConstant\\MatchingGame_LoukaConstant\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-21T19:14:19.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\louka\\OneDrive\\Documents\\Ann\u00E9e 2024-2025\\Informatique 6e\\UAA14 WPF\\MatchingGame_LoukaConstant\\MatchingGame_LoukaConstant\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\louka\\OneDrive\\Documents\\Ann\u00E9e 2024-2025\\Informatique 6e\\UAA14 WPF\\MatchingGame_LoukaConstant\\MatchingGame_LoukaConstant\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAoAAAAMl5mZmZkrwDwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T19:14:19.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
